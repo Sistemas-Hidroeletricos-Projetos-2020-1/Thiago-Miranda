@@ -40,9 +40,29 @@ Nos métodos de solução, como o escoamento é transiente o acoplamento pressã
 
 ![6 solution controls](https://user-images.githubusercontent.com/54566885/99905427-79d78b00-2caf-11eb-99b6-686be516a8a3.PNG)
 
+Para escolher o que será plotado na simulação de rompimento, foram escolhidos os seguintes critérios:
 
-
-
-
+![8  residual monitors](https://user-images.githubusercontent.com/54566885/99905429-7b08b800-2caf-11eb-8e23-040d651ca2ba.PNG)
 
 ## Conclusão
+
+Os resultados da simulação foram registrados alterando o intervalo de passos de tempo e fixando a quantidade máxima de interações da simulação.
+![9 2 scaled](https://user-images.githubusercontent.com/54566885/99905434-7ba14e80-2caf-11eb-8369-1a790bac311c.PNG)
+
+Plotando o vetor velocidade da mistura, temos o seguinte resultado:
+
+![9 4 vector velocity](https://user-images.githubusercontent.com/54566885/99905439-7cd27b80-2caf-11eb-952f-6b57e3a5e6b1.PNG)
+
+Plotando a massa de água ainda estática entre a barragem temos o seguinte resultado:
+
+![12  concentração de agua inicio](https://user-images.githubusercontent.com/54566885/99905445-7e9c3f00-2caf-11eb-8806-82b1e36246a2.PNG)
+
+Já para a concetração da água no instante final da simulação temos o deslocamento do fluido, fisicamente previsto.
+
+![12  concentração de agua final](https://user-images.githubusercontent.com/54566885/99905444-7e03a880-2caf-11eb-9ae9-fa362a329638.PNG)
+
+Atenta-se para as pressões do ar e água para no instante final da simulação, pós rompimento da barragem.
+
+![11 pressao final ar](https://user-images.githubusercontent.com/54566885/99905442-7d6b1200-2caf-11eb-9b08-7b3079ead96b.PNG)
+
+
