@@ -12,8 +12,6 @@ As barragens são estruturas de concreto utilizadas de diversas formas em proces
 
 O rompimento de barragens é uma modalidade de desastres consideravelmente reincidente na história da humanidade e recente na história brasileira. Segundo Mota, dois são os principais fatores que podem ser apontados como causa primária desse evento, o advento de um fenômeno natural intenso responsável por abalar a estrutura da barragem ou o mau planejamento dessa estrutura. A simulação do comportamento do fluido em superfícies livres é importante para conhecer as características deste escoamento e posteriormente...
 
-## Objetivo
-
 ## Metodologia
 
 Durante o início da simulação, é pré-determinado que o fluido está em confinamento entre duas colunas estabelecidas com condições de contorno em equílibrio hidroestático. Ao retirar as duas colunas pode-se avaliar variando o tempo o escoamento do fluido.
@@ -65,4 +63,4 @@ Atenta-se para as pressões do ar e água para no instante final da simulação,
 
 ![11 pressao final ar](https://user-images.githubusercontent.com/54566885/99905442-7d6b1200-2caf-11eb-9b08-7b3079ead96b.PNG)
 
-
+A importância do estudo do escoamento do rompimento é primordial para entendimento dos impactos sociais, ambientais e econômicos em casos de falhas construtivas na barragem. Além das considerações aqui feitas para simulação é necessário caracterização do solo à jusante da barragem, uma vez que as declividades e largura de escoamento também influenciam o escoamento. Por conseguinte, as condições meteorólogicas no momento do rompimento também interferência os resultados finais da simulação.
