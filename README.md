@@ -28,6 +28,16 @@ Definindo as propriedades como massa específica e viscosidade do ar e água a s
 
 ![4 fase primaria sec](https://user-images.githubusercontent.com/54566885/99905424-793ef480-2caf-11eb-9fbb-20ba1872ef5b.PNG)
 
+Em Operation Conditions coloca-se a pressão de operação e massa específica de operação, não admitindo variação de temperatura durante a operação e colocando a massa específica do fluido menos denso.
+
+![5  operation conditions](https://user-images.githubusercontent.com/54566885/99905425-793ef480-2caf-11eb-8880-55482c91f973.PNG)
+
+Nas condições de contorno defina-se a pressão de saída "pressure outlet" para a água, para reproduzir as condições ideais posteriormente ao rompimento da barragem, devemos anular qualquer ação de retorno do fluido, uma vez que não reversidade no escoamento do fluido.
+
+![5 1pressure outlet](https://user-images.githubusercontent.com/54566885/99905426-79d78b00-2caf-11eb-9bcf-d98930faa032.PNG)
+
+
+
 
 
 
