@@ -36,6 +36,10 @@ Nas condições de contorno defina-se a pressão de saída "pressure outlet" par
 
 ![5 1pressure outlet](https://user-images.githubusercontent.com/54566885/99905426-79d78b00-2caf-11eb-9bcf-d98930faa032.PNG)
 
+Nos métodos de solução, como o escoamento é transiente o acoplamento pressão velocidade é dado pelo algoritmo PISO, para a pressão utilizamos o PRESTO, para o momento o First Order Upwind. Podem ser determinados valores de relaxamento do fluido e quando o ciclo será executado no valor de terminação da pressão.
+
+![6 solution controls](https://user-images.githubusercontent.com/54566885/99905427-79d78b00-2caf-11eb-99b6-686be516a8a3.PNG)
+
 
 
 
