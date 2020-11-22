@@ -16,4 +16,6 @@ O rompimento de barragens é uma modalidade de desastres consideravelmente reinc
 
 ## Metodologia
 
+Durante o início da simulação, é pré-determinado que o fluido está em confinamento entre duas colunas estabelecidas com condições de contorno em equílibrio hidroestático. Ao retirar as duas colunas pode-se avaliar variando o tempo o escoamento do fluido.
+
 ## Conclusão
