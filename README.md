@@ -18,4 +18,9 @@ O rompimento de barragens é uma modalidade de desastres consideravelmente reinc
 
 Durante o início da simulação, é pré-determinado que o fluido está em confinamento entre duas colunas estabelecidas com condições de contorno em equílibrio hidroestático. Ao retirar as duas colunas pode-se avaliar variando o tempo o escoamento do fluido.
 
+![3 materiais](https://user-images.githubusercontent.com/54566885/99905421-780dc780-2caf-11eb-9c28-c6ef66e3d48c.PNG)
+
+Será utilizada o método Volume od Fluids (VOF) como modelagem de superfície livre em regime transiente
+
+
 ## Conclusão
